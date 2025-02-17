@@ -1,6 +1,6 @@
 # Spotify-Project-Using-SQL
 
-##Project Overview:
+## Project Overview:
 The Spotify SQL Analysis project aims to explore and analyze key performance metrics of Spotify tracks, albums, and artists using SQL. The analysis is structured across three levels of complexity: Easy, Medium, and Advanced. Through this project, we will derive insights into streaming patterns, track popularity, and listener engagement metrics. The insights gathered will help in understanding music trends, artist performance, and factors contributing to track popularity.
 
 ## Objectives:

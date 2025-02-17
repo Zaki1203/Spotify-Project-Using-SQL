@@ -65,10 +65,11 @@ Advanced Techniques: Window functions (dense rank, RANK, OVER), subqueries, and 
 Conditional Expression:Nullif,Coalesce
 
 
-# Key Outcomes:
+## Key insights
 
-Gain a comprehensive understanding of track performance metrics.
-
-Utilize SQL capabilities such as aggregate functions, window functions, and subqueries to analyze streaming data.
-
-Provide actionable insights for music producers, marketing teams, and content creators.
+1. Tracks like *Feel Good*, *Californication*, *Under the Bridge*, *In Da Club*, and others have surpassed 1 billion streams.  
+2. There are *497,023,475* total comments on tracks where the license status is set to true.  
+3. Most artists have released around *10 tracks*.  
+4. *Gentle Piano Melodies*, *Rain and Thunderstorm, Pt. 3*, *Rain and Thunderstorm, Pt. 33*, *Rain and Thunderstorm, Pt. 4*, and *Rain and Thunderstorm, Pt. 6* are among the tracks with high energy levels.  
+5. Albums and tracks with significant views include *VIDA* with *16,159,296,273* views, *See You Again (feat. Charlie Puth)* with *11,547,595,554* views, and *Peace Is The Mission (Extended)* with *9,974,504,694* views.  
+6. *Old Town Road - Remix*, *Silence*, *Photograph*, *Stay*, and *Perfect Strangers* are among the tracks with more streams on Spotify compared to YouTube.

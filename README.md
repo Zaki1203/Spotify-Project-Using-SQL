@@ -41,6 +41,30 @@ The Spotify SQL Analysis project aims to explore and analyze key performance met
 
 -Calculate the cumulative sum of likes for tracks based on the order of views using window functions.
 
+## DataSource
+
+The data has been Dataset used for this project was taken from kaggle and Spotify Dataset:[Click Here](https://github.com/Zaki1203/Spotify-Project-Using-SQL/blob/main/spotify.xlsx)
+
+## Tools and Techniques
+Excel:
+
+Data cleaning: Handling missing values, removing duplicates, and standardizing formats.
+
+Data preparation: Structuring the dataset for SQL integration.
+
+SQL Server:
+
+Basic Queries: SELECT, WHERE, GROUP BY, ORDER BY.
+
+Aggregation: COUNT, SUM, AVG, MAX, MIN.
+
+Filtering: Using WHERE and HAVING clauses for conditional queries.
+
+Advanced Techniques: Window functions (dense rank, RANK, OVER), subqueries, and WITH clauses for complex analysis
+
+Conditional Expression:Nullif,Coalesce
+
+
 # Key Outcomes:
 
 Gain a comprehensive understanding of track performance metrics.

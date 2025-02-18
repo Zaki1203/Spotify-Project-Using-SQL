@@ -43,7 +43,7 @@ The Spotify SQL Analysis project aims to explore and analyze key performance met
 
 ## DataSource
 
-The data has been Dataset used for this project was taken from kaggle and Spotify Dataset:[Click Here](https://github.com/Zaki1203/Spotify-Project-Using-SQL/blob/main/spotify.xlsx)
+Dataset used for this project was taken from kaggle and Spotify Dataset:[Click Here](https://github.com/Zaki1203/Spotify-Project-Using-SQL/blob/main/spotify.xlsx)
 
 ## Tools and Techniques
 Excel:
